@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shruti
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Open Source
 - ✨ Reach me on [Instagram](https://www.instagram.com/__shruti04_/)
 
 <!---

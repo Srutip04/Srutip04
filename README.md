@@ -56,7 +56,7 @@
   <br/>-->
 <br/>
 
-<a href="https://github.com/Srutip04/github-readme-activity-graph"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Srutip04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Srutip04/github-readme-activity-graph"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Srutip04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>

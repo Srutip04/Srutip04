@@ -70,7 +70,6 @@
 <a href = "https://www.instagram.com/__shruti04_/" target= "_blank"><img src="https://img.shields.io/badge/__shruti04__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/Srutip04"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
 </p>
 
 

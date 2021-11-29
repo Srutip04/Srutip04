@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently into Web Development
+- 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **subuhishruti75@gmail.com**
 

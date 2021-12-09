@@ -9,12 +9,11 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **subuhishruti75@gmail.com**
 
+</br>
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <!--<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> -->
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -22,8 +21,10 @@
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>   
+     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -33,7 +34,7 @@
    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+   
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
@@ -41,15 +42,27 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>-->
 </p>
 
-<br/>
+</br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Srutip04/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shruti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srutip04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+</p> -->
+<!-- GitHub Readme Streak Stats-->
+## 🔥 Streak stats
+
+
+<p align="center">
+  <a href="https://github.com/kole-swapnil">
+    <img  alt="Srutip04's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srutip04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+  
 </p>
 
-## 📊 My Github Stats
+</br>
+
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Srutip04/github-readme-stats"><img alt="Shruti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srutip04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -57,12 +70,34 @@
   <br/>
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>-->
-<br/>
+<!-- <br/>
 
 <a href="https://github.com/Srutip04/github-readme-activity-graph"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Srutip04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&area_color=88fff3&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
+ <!--Github Stats-->
+## 📊 Github stats
+
+
+<details open=""> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Srutip04"><img align="center" alt="Shruti's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Srutip04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="192px"/></a>
+  <a href="https://github.com/Srutip04"><img align="center" height="192px" alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srutip04&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  </p>
+ 
+</details>
+
+<!--Contribution Graph-->
+</br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Srutip04&bg_color=000000&color=5BCDEC&line=5BCDEC&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
+
+</br>
+ 
 
 ## Connect with me:
 

@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **React,NextJS**
+- 🌱 I’m currently learning **NextJS,Solidity**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **subuhishruti75@gmail.com**
 

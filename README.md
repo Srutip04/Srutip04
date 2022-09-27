@@ -27,6 +27,8 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+     <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
+  <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>

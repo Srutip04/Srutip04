@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi, I'm Shruti</h1>
+<h1 align="center">SHRUTI</h1>
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me
 
 
 - 🌱 I’m currently learning **NextJS,Solidity**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **subuhishruti75@gmail.com**
-
+ -->
 </br>
 
 ## 🚀 Languages and Tools:

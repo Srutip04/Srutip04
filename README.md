@@ -50,15 +50,18 @@
 </br>
 
 
+
+
+<!--
 ## 🔥 Streak stats
-
-
-<p align="center">
+ <p align="center">
   <a href="https://github.com/Srutip04">
     <img  alt="Srutip04's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srutip04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
   
 </p>
+-->
+
 
 </br>
 

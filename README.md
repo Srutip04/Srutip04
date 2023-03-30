@@ -75,7 +75,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/Srutip04"><img align="center" alt="Shruti's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Srutip04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="192px"/></a>
-  <a href="https://github.com/Srutip04"><img align="center" height="192px" alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srutip04&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Srutip04"><img align="center" height="192px" alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srutip04&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   </p>
  
